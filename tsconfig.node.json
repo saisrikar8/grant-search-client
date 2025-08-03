@@ -9,7 +9,7 @@
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
     "noEmit": false,
-    "composite": true,                         // <-- added
+    "composite": true,
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
